@@ -57,6 +57,8 @@ button {
     border: 1px solid rgba(255, 255, 255, 0.521);
     cursor: pointer;
     transition: all 0.1s ease;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .equal-btn {
