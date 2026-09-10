@@ -63,10 +63,6 @@ button {
     box-shadow: 0 5px 15px rgba(251, 124, 20, 0.527);
 }
 
-.operator {
-    color: #fb7c14;
-}
-
-.ac-del-per {
+.operator, .ac-del-per{
     color: #fb7c14;
 }
